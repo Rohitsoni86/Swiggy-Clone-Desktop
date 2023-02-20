@@ -1,0 +1,87 @@
+/*---------------- HIDE SCROLL BAR SECTION --------------------*/
+
+
+.hideScrollBar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hideScrollBar {
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+
+/*----------------- HIDE SCROLL BAR SECTION-------------------- */
+
+
+
+.orangeColor {
+    color: orangered !important;
+}
+
+
+
+
+.borderBottomGreyLight {
+    border-bottom: 2px solid gainsboro !important;
+}
+
+.headTopSection {
+    border-bottom: 2px solid gainsboro !important;
+}
+
+.borderRadius {
+    border: 2px solid #80808054 !important;
+    border-radius: 12px;
+}
+
+.mainLogo {
+    width: 2.4vw;
+}
+
+
+
+.linkhoverOrange:hover {
+    color: orangered !important;
+}
+
+
+.imageWrapper {
+    object-fit: cover;
+}
+
+.imageWrapper img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+
+}
+
+.backgroundColor_1 {
+    background-color: #13274F;
+}
+
+
+
+/* Carousel Multiple Items Responsive */
+
+.topMargin {
+    margin-top: 6rem;
+}
+
+
+
+/* Carousel Multiple Items Responsive */
+
+
+
+.filterButton {
+    padding: 1.6rem;
+    text-align: center;
+}
+
+.filterButton:hover {
+    background-color: aqua;
+}
